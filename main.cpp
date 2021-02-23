@@ -11,7 +11,7 @@
 //  typeid(myBool).name() prints out the object type
 //  compiler actually accepts non-booleans in if statements, but the behavior is super weird..
 //  TODO: Figure out what "auto" does
-
+//  adding sample line
 /*
  Below is syntax to prevent compiler from throwing warning that you are giving and int a float
  int myint;
